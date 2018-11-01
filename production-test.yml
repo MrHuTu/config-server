@@ -1,7 +1,1 @@
 name: huchao
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://120.79.247.187:3306/zdjc_detection?allowMultiQueries=true&useUnicode=true&characterEncoding=utf-8&useSSL=false
-    username: testuser
-    password: 123456
